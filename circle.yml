@@ -3,6 +3,6 @@ dependencies:
     - yarn add typings -g
     - yarn
     - typings install
-  test:
-    override:
-      - yarn test
+test:
+  override:
+    - yarn test
