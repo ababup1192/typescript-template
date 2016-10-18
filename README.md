@@ -1,15 +1,15 @@
 # Typescript Template
 
+[![CircleCI](https://circleci.com/gh/ababup1192/typescript-template.svg?style=svg)](https://circleci.com/gh/ababup1192/typescript-template)
+
 # Preparation
 
 ```
+$ npm add typescript -g
 $ brew install yarn
-$ yarn add typescript -g
-$ yarn add webpack -g
-$ yarn add webpack-dev-server -g
 
 $ yarn
-$ typings install
+$ yarn run typings install
 ```
 
 # Testing
