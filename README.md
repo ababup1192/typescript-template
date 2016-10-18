@@ -5,7 +5,6 @@
 # Preparation
 
 ```
-$ npm add typescript -g
 $ brew install yarn
 
 $ yarn
@@ -19,5 +18,5 @@ $ yarn test
 
 # Build
 ```
-$ yarn run build
+$ yarn build
 ```
