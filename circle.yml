@@ -1,0 +1,8 @@
+dependencies:
+  override:
+    - yarn add typings -g
+    - yarn
+    - typings install
+  test:
+    override:
+      - yarn test
