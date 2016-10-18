@@ -14,8 +14,8 @@ dependencies:
 
   override:
     - yarn install
-    - yarn add typings -g
-    - typings install
+    - yarn add typings
+    - yarn run typings install
 
 test:
   override:
