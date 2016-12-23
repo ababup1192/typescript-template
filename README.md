@@ -4,11 +4,13 @@
 
 # Preparation
 
-```
-$ brew install yarn
+[Install Node.js](https://github.com/hokaccha/nodebrew)
 
+[Install Yarn](https://yarnpkg.com/en/docs/install)
+
+Install Packages
+```
 $ yarn
-$ yarn run typings install
 ```
 
 # Testing
@@ -19,4 +21,10 @@ $ yarn test
 # Build
 ```
 $ yarn build
+// Create bundle.js to build/
+```
+
+# Build & Run
+```
+$ yarn buildRun
 ```

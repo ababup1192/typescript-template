@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "build": "webpack"
+    "build": "webpack",
+    "buildRun": "webpack && node build/bundle.js"
   },
   "dependencies": {
     "@types/immutable": "^3.8.6",
