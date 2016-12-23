@@ -8,7 +8,7 @@
 
 [Install Yarn](https://yarnpkg.com/en/docs/install)
 
-Install Packages
+Install packages
 ```
 $ yarn
 ```
