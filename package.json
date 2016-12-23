@@ -1,6 +1,6 @@
 {
   "name": "typescript-template",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -8,14 +8,15 @@
     "build": "webpack"
   },
   "dependencies": {
+    "@types/immutable": "^3.8.6",
+    "@types/jest": "^16.0.2",
     "immutable": "^3.8.1",
     "jest": "^16.0.1",
     "jest-cli": "^16.0.1",
     "ts-jest": "^0.1.8",
     "ts-loader": "^0.9.4",
     "tslint": "^3.15.1",
-    "typescript": "^2.0.3",
-    "typings": "^1.4.0",
+    "typescript": "2.1.4",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
   },
